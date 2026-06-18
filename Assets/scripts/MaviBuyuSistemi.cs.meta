@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 065660e5b2360134d93998e40ca4b0a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maviBuyuPrefab: {fileID: 8805146239375565705, guid: 9301bf2d51d30d24db687932227f852a, type: 3}
+  - atisNoktasi: {fileID: 9215380776214857974, guid: 89882563942eab94e8f16df53762d9c0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

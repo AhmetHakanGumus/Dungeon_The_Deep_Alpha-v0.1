@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 094e2b40fb1d1b24893c0b5c9fe47bc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3491750821684449422
+    second: zenci-attack2-left(1)_0
+  - first:
+      213: -460983298344143849
+    second: zenci-attack2-left(1)_1
+  - first:
+      213: -1404837101920022921
+    second: zenci-attack2-left(1)_2
+  - first:
+      213: -1128388396053894810
+    second: zenci-attack2-left(1)_3
+  - first:
+      213: -3995495343207712379
+    second: zenci-attack2-left(1)_4
+  - first:
+      213: 7700817341337891969
+    second: zenci-attack2-left(1)_5
+  - first:
+      213: -3837639776994737332
+    second: zenci-attack2-left(1)_6
+  - first:
+      213: 8254629272816287640
+    second: zenci-attack2-left(1)_7
+  - first:
+      213: -8287123043171878997
+    second: zenci-attack2-left(1)_8
+  - first:
+      213: 4656631007511319845
+    second: zenci-attack2-left(1)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 23
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 946
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fe155b02fca8fc0800000000000000
+      internalID: -3491750821684449422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 946
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7143fcee1224a99f0800000000000000
+      internalID: -460983298344143849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_2
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 946
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e84c45914018ce0800000000000000
+      internalID: -1404837101920022921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 562
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669e8847bb82750f0800000000000000
+      internalID: -1128388396053894810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 562
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589706687262d88c0800000000000000
+      internalID: -3995495343207712379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 584
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184fc9e329cceda60800000000000000
+      internalID: 7700817341337891969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_6
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 562
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c15c94f6fdbac0800000000000000
+      internalID: -3837639776994737332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 572
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f71c6b6955e8270800000000000000
+      internalID: 8254629272816287640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 178
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba739c1df793efc80800000000000000
+      internalID: -8287123043171878997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zenci-attack2-left(1)_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 178
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52518ccba3daf9040800000000000000
+      internalID: 4656631007511319845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zenci-attack2-left(1)_0: -3491750821684449422
+      zenci-attack2-left(1)_1: -460983298344143849
+      zenci-attack2-left(1)_2: -1404837101920022921
+      zenci-attack2-left(1)_3: -1128388396053894810
+      zenci-attack2-left(1)_4: -3995495343207712379
+      zenci-attack2-left(1)_5: 7700817341337891969
+      zenci-attack2-left(1)_6: -3837639776994737332
+      zenci-attack2-left(1)_7: 8254629272816287640
+      zenci-attack2-left(1)_8: -8287123043171878997
+      zenci-attack2-left(1)_9: 4656631007511319845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
